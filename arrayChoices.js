@@ -9,5 +9,5 @@ const positive_affirmations=["you are a great person",
                             "you are beautiful",
                             "you are strong",
                             "from now on your life will be filled with joy and happiness",
-                            "there no one like you, you are unique and you bring something special",
+                            "there is no one like you, you are unique and you bring something special",
                             "eveyone adores you, you are beautiful"];
