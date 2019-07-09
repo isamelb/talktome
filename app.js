@@ -31,6 +31,7 @@ if (message.includes("affirmations")){
  }
 
 speech.volume = 1;
+speech.rate = 0.75;
 window.speechSynthesis.speak(speech);
 }
 
