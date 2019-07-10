@@ -19,7 +19,8 @@ recognition.onresult = function(event){
 function readOutLoud(message){
 
 const speech = new SpeechSynthesisUtterance();
-speech.text = 'I dont know what you said, you can ask me to motivate you, or just say give me good affirmations'
+speech.text = 'I dont know what you said, you can ask me to motivate you, or just say give me good affirmations or ask me \
+about some good principles of life'
 if ((message.includes("motivate"))||(message.includes("motivating"))){
    const finalText = motivate_me[Math.floor(Math.random()*motivate_me.length)];
    speech.text = finalText;
@@ -30,8 +31,8 @@ if (message.includes("affirmations")){
     speech.text = finalText;
  }
 
- if ((message.includes("story"))||(message.includes("stories"))){
-    const finalText = short_stories[Math.floor(Math.random()*short_stories.length)];
+ if ((message.includes("principle"))||(message.includes("principles"))){
+    const finalText = principles[Math.floor(Math.random()*principles.length)];
     speech.text = finalText;
  }
 
