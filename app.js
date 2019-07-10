@@ -20,13 +20,18 @@ function readOutLoud(message){
 
 const speech = new SpeechSynthesisUtterance();
 speech.text = 'I dont know what you said, you can ask me to motivate you, or just say give me good affirmations'
-if (message.includes("motivate")){
+if ((message.includes("motivate"))||(message.includes("motivating"))){
    const finalText = motivate_me[Math.floor(Math.random()*motivate_me.length)];
    speech.text = finalText;
 }
 
 if (message.includes("affirmations")){
     const finalText = positive_affirmations[Math.floor(Math.random()*positive_affirmations.length)];
+    speech.text = finalText;
+ }
+
+ if ((message.includes("story"))||(message.includes("stories"))){
+    const finalText = short_stories[Math.floor(Math.random()*short_stories.length)];
     speech.text = finalText;
  }
 
