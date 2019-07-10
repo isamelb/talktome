@@ -14,7 +14,9 @@ recognition.onresult = function(event){
     const transcript = event.results[current][0].transcript;
     content.textContent = transcript;
     readOutLoud(transcript);
+    readOutLoud(transcript);
 };
+
 
 function readOutLoud(message){
 
@@ -26,7 +28,7 @@ if ((message.includes("motivate"))||(message.includes("motivating"))){
    speech.text = finalText;
 }
 
-if (message.includes("affirmations")){
+if ((message.includes("affirmation"))||(message.includes("affirmations"))){
     const finalText = positive_affirmations[Math.floor(Math.random()*positive_affirmations.length)];
     speech.text = finalText;
  }
