@@ -42,10 +42,13 @@ speech.volume = 1;
 speech.rate = 1;
 window.speechSynthesis.speak(speech);
 document.body.style.backgroundColor = "white";
+content.textContent = speech.text;
+
 }
 
 btn.addEventListener("click" , () => {
 recognition.start();
 document.body.style.backgroundColor = "#AAAAAA";
+
 
 });
