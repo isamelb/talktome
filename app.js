@@ -41,9 +41,11 @@ if ((message.includes("affirmation"))||(message.includes("affirmations"))){
 speech.volume = 1;
 speech.rate = 1;
 window.speechSynthesis.speak(speech);
+document.body.style.backgroundColor = "white";
 }
 
 btn.addEventListener("click" , () => {
 recognition.start();
+document.body.style.backgroundColor = "#AAAAAA";
 
 });
