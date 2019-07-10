@@ -36,7 +36,7 @@ const principles =[
 "always help people, this will impact their life and your life positively",
 "make sure you love and approve of yourself daily by repeating these words: I approve of myself and love myself",
 "make sure to practice surrender to what has already happened many time a day by repeating: i accept my life many times",
-"when you meditate, make sure to include acceptance of body sensations such heat or cold",
+"when you meditate, make sure to include acceptance of body sensations such as heat or cold",
 "make sure to always forgive yourself and forgive others and repeat to yourself: noone is perfect including myself",
 "make sure to include a meditation of gratitude every day to complete your contentment and happiness",
 "make sure to include a meditation of universal friendliness eveyday by sending love and gratitude to all living beings"
