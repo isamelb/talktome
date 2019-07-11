@@ -52,7 +52,7 @@ const give_love = ["you are loved , you are loved and you are supported",
                     "forgive and love yourself everyday no matter what happens",
                     "never mind angry people, you will change them by loving them",
                     "take time everyday to observe your body and consciousely love evey part of it",
-                    "always love your and know that it is a gift given to you dont waste it by being angry"
+                    "always love yourself and know that it is a gift given to you dont waste it by being angry"
                     
                     
                     
