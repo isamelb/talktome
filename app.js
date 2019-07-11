@@ -41,7 +41,7 @@ else if ((message.includes("affirmation"))||(message.includes("affirmations"))){
  else if ((message.includes("principle"))||(message.includes("principles"))){
     const finalText = principles[Math.floor(Math.random()*principles.length)];
     speech.text = finalText;
-    image2.src = "sunset3.jpg"
+    image2.src = "sunset2.jpeg"
  }
 
  else if ((message.includes("love"))||(message.includes("loving"))){
