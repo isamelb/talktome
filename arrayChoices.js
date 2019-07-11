@@ -28,7 +28,7 @@ const principles =[
 "always live life authentically, be yourself no matter what they say",
 "always do at least one hour of learning new things per day",
 "do at least two sessions of 20 minutes meditation per day",
-"always live life simply, wear simple clothes, eat simple foods, and have a simplistic wardrobe",
+"always live life simply, wear simple clothes, eat simple foods, and be modest",
 "walk in nature at least one hour per day",
 "always sleep at the same time every night as this will give you good quality sleep",
 "never use intoxicant, intoxicants destroy lives and waste money and resources",
@@ -36,11 +36,12 @@ const principles =[
 "always help people, this will impact their life and your life positively",
 "make sure you love and approve of yourself daily by repeating these words: I approve of myself and love myself",
 "make sure to practice surrender to what has already happened many time a day by repeating: i accept my life many times",
-"when you meditate, make sure to include acceptance of body sensations such as heat or cold",
+"when you meditate, make sure to include acceptance of body sensations such as the sensation of feeling \
+ hot or cold",
 "make sure to always forgive yourself and forgive others and repeat to yourself: noone is perfect including myself",
 "make sure to include a meditation of gratitude every day to complete your contentment and happiness",
 "make sure to include a meditation of universal friendliness eveyday by sending love and gratitude to all living beings"
 
 
 
-];
+]
