@@ -42,6 +42,8 @@ const principles =[
 "make sure to include a meditation of gratitude every day to complete your contentment and happiness",
 "make sure to include a meditation of universal friendliness everyday by sending love and gratitude to all living beings"
 
+];
 
-
-]
+const give_love = ["you are loved , you are loved and you are supported",
+                    "give love to yourself by saying to yourself, I love you,\
+                     I love you several times during the day"]
