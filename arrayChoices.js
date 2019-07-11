@@ -46,4 +46,17 @@ const principles =[
 
 const give_love = ["you are loved , you are loved and you are supported",
                     "give love to yourself by saying to yourself, I love you,\
-                     I love you several times during the day"];
+                     I love you several times during the day",
+                    "infuse love into everything that you do, life would become sheer joy",
+                    "always give loving kind words to people, you will get the same back",
+                    "forgive and love yourself everyday no matter what happens",
+                    "never mind angry people, you will change them by loving them",
+                    "take time everyday to observe your body and consciousely love evey part of it",
+                    "always love your and know that it is a gift given to you dont waste it by being angry"
+                    
+                    
+                    
+                    
+                    
+                    
+                    ];
