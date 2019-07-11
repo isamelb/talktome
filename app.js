@@ -1,7 +1,7 @@
 const btn = document.querySelector(".talk");
 const content = document.querySelector(".content");
-const image = document.querySelector(".image");
-const rose = document.querySelector(".rose");
+const image2 = document.querySelector(".image2");
+
 
 
 
@@ -28,31 +28,31 @@ about some good principles of life or you can ask me to give you pure love'
 if ((message.includes("motivate"))||(message.includes("motivating"))){
    const finalText = motivate_me[Math.floor(Math.random()*motivate_me.length)];
    speech.text = finalText;
-   image.src = "bluerose.jpeg"
+   image2.src = "bluerose.jpeg"
 }
 
 if ((message.includes("affirmation"))||(message.includes("affirmations"))){
     const finalText = positive_affirmations[Math.floor(Math.random()*positive_affirmations.length)];
     speech.text = finalText;
-    image.src = "sunset2.jpeg"
+    image2.src = "sunset2.jpeg"
  }
 
  if ((message.includes("principle"))||(message.includes("principles"))){
     const finalText = principles[Math.floor(Math.random()*principles.length)];
     speech.text = finalText;
-    image.src = "sunset4.jpeg"
+    image2.src = "sunset4.jpeg"
  }
 
  if ((message.includes("love"))||(message.includes("loving"))){
     const finalText = give_love[Math.floor(Math.random()*give_love.length)];
     speech.text = finalText;
-    image.src = "sunset4.jpeg"
+    image2.src = "sunset4.jpeg"
  }
 
 speech.volume = 1;
 speech.rate = 1;
 window.speechSynthesis.speak(speech);
-//document.body.style.backgroundColor = "white";
+document.body.style.backgroundColor = "powderblue";
 content.textContent = speech.text;
 
 }
@@ -60,7 +60,7 @@ content.textContent = speech.text;
 btn.addEventListener("click" , () => {
 recognition.start();
 //document.body.style.backgroundColor = "powderblue";
-rose.src = ""
+
 
 
 });
