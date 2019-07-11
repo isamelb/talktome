@@ -24,7 +24,7 @@ function readOutLoud(message){
 
 const speech = new SpeechSynthesisUtterance();
 speech.text = 'I dont know what you said, you can ask me to motivate you, or just say give me good affirmations or ask me \
-about some good principles of life or you can ask me to give you pure love'
+about some good principles of life or you can ask me to guide you to  cultivate self love'
 document.body.style.backgroundColor = "white";
 if ((message.includes("motivate"))||(message.includes("motivating"))){
    const finalText = motivate_me[Math.floor(Math.random()*motivate_me.length)];
@@ -32,24 +32,24 @@ if ((message.includes("motivate"))||(message.includes("motivating"))){
    image2.src = "bluerose.jpeg"
 }
 
-if ((message.includes("affirmation"))||(message.includes("affirmations"))){
+else if ((message.includes("affirmation"))||(message.includes("affirmations"))){
     const finalText = positive_affirmations[Math.floor(Math.random()*positive_affirmations.length)];
     speech.text = finalText;
     image2.src = "sunset2.jpeg"
  }
 
- if ((message.includes("principle"))||(message.includes("principles"))){
+ else if ((message.includes("principle"))||(message.includes("principles"))){
     const finalText = principles[Math.floor(Math.random()*principles.length)];
     speech.text = finalText;
-    image2.src = "sunset4.jpeg"
+    image2.src = "sunset3.jpg"
  }
 
- if ((message.includes("love"))||(message.includes("loving"))){
+ else if ((message.includes("love"))||(message.includes("loving"))){
     const finalText = give_love[Math.floor(Math.random()*give_love.length)];
     speech.text = finalText;
     image2.src = "sunset4.jpeg"
  }else{
-    image2.src = "sunset4.jpeg"
+    image2.src = "sunse.jpg"
  }
 
 speech.volume = 1;
