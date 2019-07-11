@@ -2,7 +2,7 @@ const motivate_me =[
 "you surely can finish any project you start",
 "you should always love yourself",
 "life is beautifull, go out there and live",
-"create thing if you want to find happiness",
+"create things if you want to find happiness",
 "always repeat these words to yourself: I love myself, I love myself",
 "repeat this mantra to yourself, I can do anything I set myself to do"
 ];
