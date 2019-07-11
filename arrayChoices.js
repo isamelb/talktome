@@ -46,4 +46,4 @@ const principles =[
 
 const give_love = ["you are loved , you are loved and you are supported",
                     "give love to yourself by saying to yourself, I love you,\
-                     I love you several times during the day"]
+                     I love you several times during the day"];
