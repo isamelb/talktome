@@ -49,7 +49,7 @@ else if ((message.includes("affirmation"))||(message.includes("affirmations"))){
     speech.text = finalText;
     image2.src = "sunset4.jpeg"
  }else{
-    image2.src = "sunse.jpg"
+    image2.src = "sunset2.jpg"
  }
 
 speech.volume = 1;
