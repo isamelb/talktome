@@ -27,19 +27,19 @@ about some good principles of life'
 if ((message.includes("motivate"))||(message.includes("motivating"))){
    const finalText = motivate_me[Math.floor(Math.random()*motivate_me.length)];
    speech.text = finalText;
-   image.src = "bluerose.jpeg"
+   image.src = "bluerose.jpeg";
 }
 
 if ((message.includes("affirmation"))||(message.includes("affirmations"))){
     const finalText = positive_affirmations[Math.floor(Math.random()*positive_affirmations.length)];
     speech.text = finalText;
-    image.src = "sunset2.jpeg"
+    image.src = "sunset2.jpeg";
  }
 
  if ((message.includes("principle"))||(message.includes("principles"))){
     const finalText = principles[Math.floor(Math.random()*principles.length)];
     speech.text = finalText;
-    image.src = "sunset4.jpeg"
+    image.src = "sunset4.jpeg";
  }
 
 speech.volume = 1;
