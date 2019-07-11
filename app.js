@@ -1,6 +1,7 @@
 const btn = document.querySelector(".talk");
 const content = document.querySelector(".content");
 const image = document.querySelector(".image");
+const rose = document.querySelector(".rose");
 
 
 
@@ -58,7 +59,8 @@ content.textContent = speech.text;
 
 btn.addEventListener("click" , () => {
 recognition.start();
-document.body.style.backgroundColor = "powderblue";
+//document.body.style.backgroundColor = "powderblue";
+rose.src = ""
 
 
 });
