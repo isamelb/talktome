@@ -60,3 +60,6 @@ const give_love = ["you are loved , you are loved and you are supported",
                     
                     
                     ];
+const health_advice =[];
+
+const financial_advice = [];
