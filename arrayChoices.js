@@ -41,7 +41,7 @@ const principles =[
 "make sure to always forgive yourself and forgive others and repeat to yourself: noone is perfect including myself",
 "make sure to include a meditation of gratitude every day to complete your contentment and happiness",
 "make sure to include a meditation of universal friendliness everyday by sending love and gratitude to all living beings"
-
+"If you are stressed, meditate to learn more about your fears and anger"
 ];
 
 const give_love = ["you are loved , you are loved and you are supported",
