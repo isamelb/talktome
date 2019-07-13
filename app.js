@@ -16,7 +16,7 @@ recognition.onresult = function(event){
     const transcript = event.results[current][0].transcript;
     content.textContent = transcript;
     readOutLoud(transcript);
-    readOutLoud(transcript);
+    
 };
 
 
@@ -26,7 +26,7 @@ const speech = new SpeechSynthesisUtterance();
 speech.text = 'I dont know what you said, you can ask me to motivate you, or just say give me good affirmations or ask me \
 about some good principles of life or you can ask me to guide you to  cultivate self love'
 document.body.style.backgroundColor = "white";
-if ((message.includes("motivate"))||(message.includes("motivation"))){
+if ((message.includes("motivate"))||(message.includes("motivating"))){
    const finalText = motivate_me[Math.floor(Math.random()*motivate_me.length)];
    speech.text = finalText;
    image2.src = "bluerose.jpeg"
