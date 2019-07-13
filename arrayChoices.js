@@ -57,25 +57,51 @@ const motivate_me =[
     practice acceptance of your life everyday, repeat these words: i accept my life, I accept my life"
     ];
     
-    const give_love = ["you are loved , you are loved and you are supported,\
-                        give love to yourself by saying to yourself, I love you,\
-                         I love you several times during the day",
+    const give_love = [
+    "you are loved , you are loved and you are supported,\
+    give love to yourself by saying to yourself, I love you,\
+    I love you several times during the day",
 
-                        "infuse love into everything that you do, life would become sheer joy,\
-                        always give loving kind words to people, you will get the same back",
+    "infuse love into everything that you do, life would become sheer joy,\
+    always give loving kind words to people, you will get the same back",
 
-                        "forgive and love yourself everyday no matter what happens,\
-                        never mind angry people, you will change them by loving them",
+    "forgive and love yourself everyday no matter what happens,\
+    never mind angry people, you will change them by loving them",
 
-                        "take time everyday to observe your body and consciousely love every part of it,\
-                        always love life and know that it is a gift given to you dont waste it by being angry"
-                        
-                        
+    "take time everyday to observe your body and consciousely love every part of it,\
+    always love life and know that it is a gift given to you dont waste it by being angry"
+    
+    
                         
                         
                         
                         
                         ];
-    const health_advice =[];
+    const health_advice =[  
+    "dont put sugar in your coffee or tea,\
+    do at least a 20 minutes strenuous exercise per day",
+    "dont smoke either cigarettes or cannabis, they will destroy your well being\
+    and your chances of succeeding in life",
+
+
+
+
+
+
+
+
+
+];
     
-    const financial_advice = [];
+    const financial_advice = [
+    "save at least 2 pounds per day,\
+    dont smoke cigarettes as their cost will render you extremely poor",
+
+    "learn about the different ways you can invest your money ,\
+    dont get into the daily habit of going to coffee shops, if you spend 5 pounds per day\
+    on coffee, that will make it 1600 pouns per year",
+
+
+
+
+];

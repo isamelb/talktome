@@ -23,8 +23,10 @@ recognition.onresult = function(event){
 function readOutLoud(message){
 
 const speech = new SpeechSynthesisUtterance();
-speech.text = 'I dont know what you said, you can ask me to motivate you, or just say give me good affirmations or ask me \
-about some good principles of life or you can ask me to guide you to  cultivate self love'
+speech.text = 'I dont know what you said, you can ask me anything about the following subjects:\
+motivation, self love, good affirmations, good principals of life, financial advice, health advice\
+'
+
 document.body.style.backgroundColor = "white";
 if ((message.includes("motivate"))||(message.includes("motivating"))){
    const finalText = motivate_me[Math.floor(Math.random()*motivate_me.length)];
@@ -48,7 +50,22 @@ else if ((message.includes("affirmation"))||(message.includes("affirmations"))){
     const finalText = give_love[Math.floor(Math.random()*give_love.length)];
     speech.text = finalText;
     image2.src = "sunset4.jpeg"
- }else{
+ }
+
+ else if ((message.includes("finance"))||(message.includes("financial"))){
+   const finalText = financial_advice[Math.floor(Math.random()*financial_advice.length)];
+   speech.text = finalText;
+   image2.src = "sunset4.jpeg"
+}
+
+else if ((message.includes("health"))||(message.includes("healthy"))){
+   const finalText = health_advice[Math.floor(Math.random()*health_advice.length)];
+   speech.text = finalText;
+   image2.src = "sunset4.jpeg"
+}
+ 
+ 
+ else{
     image2.src = "sunset2.jpeg"
  }
 
