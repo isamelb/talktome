@@ -85,7 +85,11 @@ const motivate_me =[
     and your chances of succeeding in life",
 
     "learn to meditate, it will teach you patience and give you great happiness\
-    and good mental health ,and surely dont touch alcohol it will strip you of your health, money and dignity",
+    and good mental health ,and surely dont touch alcohol it will strip you of your health,\
+     money and dignity",
+
+     "eat a lot of fresh vegetables and fruits and less processed foods, avoid saturated fats foods\
+     such as chips"
 
 
 
@@ -106,6 +110,9 @@ const motivate_me =[
     "learn about the different ways you can invest your money ,\
     dont get into the daily habit of going to coffee shops, if you spend 5 pounds per day\
     on coffee, that will make it 1600 pouns per year",
+
+    "start saving early in life and dont get into habits that waste money\
+    such going daily for coffees or drinking bear and smoking cigarettes"
 
 
 
