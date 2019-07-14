@@ -24,7 +24,7 @@ function readOutLoud(message){
 
 const speech = new SpeechSynthesisUtterance();
 speech.text = 'I dont know what you said, you can ask me anything about the following subjects:\
-motivation, self love, good affirmations, relaxation, good principals of life, financial advice, health advice\
+motivation, self love, good affirmations, relaxation, good principals of life, financial advice and health advice\
 '
 
 document.body.style.backgroundColor = "white";
