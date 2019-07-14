@@ -80,8 +80,14 @@ const motivate_me =[
     const health_advice =[  
     "dont put sugar in your coffee or tea,\
     do at least a 20 minutes strenuous exercise per day",
+    
     "dont smoke either cigarettes or cannabis, they will destroy your well being\
     and your chances of succeeding in life",
+
+    "learn to meditate, it will teach you patience and give you great happiness\
+    and good mental health ,and surely dont touch alcohol it will strip you of your health, money and dignity",
+
+
 
 
 
@@ -105,3 +111,15 @@ const motivate_me =[
 
 
 ];
+
+const relax = [
+    "calm down, calm down, relax, all is well, all is well, you are loved, clam down\
+    ,there is nothing to worry about, think about the positives in your life, calm down, calm down",
+
+    "relax, relax, i love you just relax, dont worry about anything, just notice your breath\
+    relax your scalp muscles and let your shoulders fall backwards relaxed",
+
+    "walk in nature, meditate, observe your body and note the sensations in it \
+    and consciousely relax any tension you find in it",
+
+]

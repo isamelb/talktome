@@ -58,6 +58,12 @@ else if ((message.includes("affirmation"))||(message.includes("affirmations"))){
    image2.src = "sunset4.jpeg"
 }
 
+else if ((message.includes("relax"))||(message.includes("relaxing"))){
+   const finalText = relax[Math.floor(Math.random()*relax.length)];
+   speech.text = finalText;
+   image2.src = "sunset4.jpeg"
+}
+
 else if ((message.includes("health"))||(message.includes("healthy"))){
    const finalText = health_advice[Math.floor(Math.random()*health_advice.length)];
    speech.text = finalText;
