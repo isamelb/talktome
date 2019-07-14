@@ -117,7 +117,7 @@ const relax = [
     ,there is nothing to worry about, think about the positives in your life, calm down, calm down",
 
     "relax, relax, i love you just relax, dont worry about anything, just notice your breath\
-    relax your scalp muscles and let your shoulders fall backwards relaxed",
+    ,relax your scalp muscles and let your shoulders fall backwards relaxed",
 
     "walk in nature, meditate, observe your body and note the sensations in it \
     and consciousely relax any tension you find in it",
