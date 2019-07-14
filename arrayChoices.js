@@ -69,7 +69,7 @@ const motivate_me =[
     never mind angry people, you will change them by loving them",
 
     "take time everyday to observe your body and consciousely love every part of it,\
-    always love life and know that it is a gift given to you dont waste it by being angry"
+    always love life and know that it is a gift given to you, dont waste it by being angry"
     
     
                         
