@@ -23,8 +23,10 @@ const motivate_me =[
 
     "I approve of you, I love you, I think you are great, be well my friend,\
     you are a good person, carry on being good, you will encounter a lot of happiness in your life",
+        
     "I am the architect of my life; I build its foundation and choose its contents,\
     Today, I am brimming with energy and overflowing with joy.",
+        
     "My body is healthy; my mind is brilliant; my soul is tranquil, \
     I am superior to negative thoughts and low actions.\
     I have been given endless talents which I begin to utilize today",
@@ -52,13 +54,13 @@ const motivate_me =[
     
     "I acknowledge my own self-worth; my confidence is soaring.\
      Everything that is happening now is happening for my ultimate good.\
-     I am a powerhouse; I am indestructible."
+     I am a powerhouse; I am indestructible.",
         
     "Though these times are difficult, they are only a short phase of life.\
      My future is an ideal projection of what I envision now.\
      My efforts are being supported by the universe; my dreams manifest into reality before my eyes.",
         
-    "(For those who are single) The perfect partner for me is coming into my life sooner than I expect.\
+    "For those who are single The perfect partner for me is coming into my life sooner than I expect.\
      I radiate beauty, charm, and grace.\
      I am conquering my illness; I am defeating it steadily each day.",
         
