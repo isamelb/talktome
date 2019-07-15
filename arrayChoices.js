@@ -112,7 +112,7 @@ const motivate_me =[
     on coffee, that will make it 1600 pouns per year",
 
     "start saving early in life and dont get into habits that waste money\
-    such going daily for coffees or drinking bear and smoking cigarettes"
+    such as going daily for coffees or drinking bear and smoking cigarettes"
 
 
 
