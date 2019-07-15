@@ -89,7 +89,7 @@ const motivate_me =[
      money and dignity",
 
      "eat a lot of fresh vegetables and fruits and less processed foods, avoid saturated fats foods\
-     such as pottoes chips and fried chicken"
+     such as potatoes chips and fried chicken"
 
 
 
