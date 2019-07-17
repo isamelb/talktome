@@ -20,7 +20,7 @@ recognition.onresult = function(event){
     
 };
 
-array_of_choices = ["motivate","affirmation","principle","love","finance","relax","health",];
+array_of_choices = ["motivate","affirmation","affirmation","principle","love","finance","relax","health",];
 
 function select_random (){
    var item = array_of_choices[Math.floor(Math.random()*array_of_choices.length)];
