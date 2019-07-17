@@ -43,47 +43,55 @@ if ((message.includes("motivate"))||(message.includes("motivating"))){
    const finalText = motivate_me[Math.floor(Math.random()*motivate_me.length)];
    speech.text = finalText;
    image2.src = "bluerose.jpeg"
+   maindiv.style.background  = "lightblue"
 }
 
 else if ((message.includes("affirmation"))||(message.includes("affirmations"))){
     const finalText = positive_affirmations[Math.floor(Math.random()*positive_affirmations.length)];
     speech.text = finalText;
     image2.src = "sunset2.jpeg"
+    maindiv.style.background  = "lightblue"
  }
 
  else if ((message.includes("principle"))||(message.includes("principles"))){
     const finalText = principles[Math.floor(Math.random()*principles.length)];
     speech.text = finalText;
     image2.src = "sunset2.jpeg"
+    maindiv.style.background  = "lightblue"
  }
 
  else if ((message.includes("love"))||(message.includes("loving"))){
     const finalText = give_love[Math.floor(Math.random()*give_love.length)];
     speech.text = finalText;
     image2.src = "sunset4.jpeg"
+    maindiv.style.background  = "lightblue"
  }
 
  else if ((message.includes("finance"))||(message.includes("financial"))){
    const finalText = financial_advice[Math.floor(Math.random()*financial_advice.length)];
    speech.text = finalText;
    image2.src = "sunset4.jpeg"
+   maindiv.style.background  = "lightblue"
 }
 
 else if ((message.includes("relax"))||(message.includes("relaxing"))){
    const finalText = relax[Math.floor(Math.random()*relax.length)];
    speech.text = finalText;
    image2.src = "sunset4.jpeg"
+   maindiv.style.background  = "lightblue"
 }
 
 else if ((message.includes("health"))||(message.includes("healthy"))){
    const finalText = health_advice[Math.floor(Math.random()*health_advice.length)];
    speech.text = finalText;
    image2.src = "sunset4.jpeg"
+   maindiv.style.background  = "lightblue"
 }
  
  
  else{
     image2.src = "sunset2.jpeg"
+    maindiv.style.background  = "lightblue"
  }
 
 speech.volume = 1;
@@ -96,7 +104,7 @@ content.textContent = speech.text;
 
 btn.addEventListener("click" , () => {
 recognition.start();
-maindiv.style.background  = "lightblue"
+
 
 //document.body.style.backgroundColor = "white";
 
