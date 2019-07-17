@@ -1,4 +1,5 @@
 const btn = document.querySelector(".talk");
+const btn1 = document.querySelector(".random");
 const content = document.querySelector(".content");
 const image2 = document.querySelector(".image2");
 
@@ -17,6 +18,14 @@ recognition.onresult = function(event){
     content.textContent = transcript;
     readOutLoud(transcript);
     
+};
+
+array_of_choices = ["motivate","affirmation","principle","love","finance","relax","health",];
+
+function select_random (){
+   var item = array_of_choices[Math.floor(Math.random()*array_of_choices.length)];
+   readOutLoud(item);
+
 };
 
 
@@ -87,6 +96,11 @@ btn.addEventListener("click" , () => {
 recognition.start();
 //document.body.style.backgroundColor = "white";
 
-
-
 });
+
+btn1.addEventListener("click" , () => {
+   select_random();
+   //document.body.style.backgroundColor = "white";
+   
+   });
+
