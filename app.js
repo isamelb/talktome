@@ -2,6 +2,7 @@ const btn = document.querySelector(".talk");
 const btn1 = document.querySelector(".random");
 const content = document.querySelector(".content");
 const image2 = document.querySelector(".image2");
+const maindiv = document.querySelector(".maindiv");
 
 
 
@@ -25,6 +26,7 @@ array_of_choices = ["motivate","affirmation","affirmation","principle","love","f
 function select_random (){
    var item = array_of_choices[Math.floor(Math.random()*array_of_choices.length)];
    readOutLoud(item);
+   maindiv.style.background  = "lightblue"
 
 };
 
@@ -94,6 +96,8 @@ content.textContent = speech.text;
 
 btn.addEventListener("click" , () => {
 recognition.start();
+maindiv.style.background  = "lightblue"
+
 //document.body.style.backgroundColor = "white";
 
 });
@@ -103,4 +107,5 @@ btn1.addEventListener("click" , () => {
    //document.body.style.backgroundColor = "white";
    
    });
+   
 
