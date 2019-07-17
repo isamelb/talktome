@@ -160,7 +160,7 @@ const motivate_me =[
 
     "learn about the different ways you can invest your money ,\
     dont get into the daily habit of going to coffee shops, if you spend 5 pounds per day\
-    on coffee, that will make it 1600 pouns per year",
+    on coffee, that will make it 1600 pounds per year",
 
     "start saving early in life and dont get into habits that waste money\
     such as going daily for coffees or drinking beer and smoking cigarettes"
