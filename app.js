@@ -77,7 +77,7 @@ else if ((message.includes("affirmation"))||(message.includes("affirmations"))){
 else if ((message.includes("relax"))||(message.includes("relaxing"))){
    const finalText = relax[Math.floor(Math.random()*relax.length)];
    speech.text = finalText;
-   image2.src = "sunset4.jpeg"
+   image2.src = "sunset17.jpeg"
    maindiv.style.background  = "lightblue"
 }
 
