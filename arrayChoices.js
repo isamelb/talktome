@@ -133,12 +133,12 @@ const gratitude = [
     that we have is s special, enjoy it",
 
     "I am grateful for all the incredible level of technology humanity has \
-    reached, take the mobile phone for example, it trillions of punds\
+    reached, take the mobile phone for example, it trillions of pounds\
     of investment in your pocket ready to serve you at any time, it enable you to\
     have entertainment, education and communication at the touch of a little smooth\
     glass",
 
-    "I am grateful for the level of advancement science has reache,\
+    "I am grateful for the level of advancement science has reached,\
     we live in truly incredible amazing times, artificial intelligence\
     is now a reality, it can get you any information request you require just\
     by asking it, computing technlogy can organise your life to such an extent\
