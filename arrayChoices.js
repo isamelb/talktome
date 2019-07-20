@@ -49,7 +49,7 @@ const motivate_me =[
     towards you, this behaviour will have the effect of clearing your mind \
     of any negative thoughts and negative emotions, the message is love, love, love all beings",
 
-    "you will feel a great sense of release and uphoria when you finally utterly forgive\
+    "you will feel a great sense of release and euphoria when you finally utterly forgive\
     yourself all your past mistakes towards people and towards yourself ",
 
     "before engaging in any demanding intellectual activity start by \
