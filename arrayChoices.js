@@ -22,7 +22,40 @@ const motivate_me =[
     everyone adores you, you are beautiful, you are doing the right thing in your life",
 
     "I approve of you, I love you, I think you are great, be well my friend,\
-    you are a good person, carry on being good, you will encounter a lot of happiness in your life"
+    you are a good person, carry on being good, you will encounter \
+    a lot of happiness in your life",
+
+    "I think you are an intelligent, wise person who can be trusted to make\
+    very important decisions and as a consequence you should trust yourself\
+    and be proud of yourself",
+
+    "do not ever doubt the fact that you can achieve anything you set your mind to\
+    and as a consquence you should trust your abilities and you capacity to\
+    achieve any reasonable targets and goals",
+
+    "if you follow the principles and believe in the affirmations in this app\
+    there is absolutely no reason why you should not acheive wealth, good health \
+    and sublime happiness",
+
+    "The more you listen to positive affirmations and good principles of life\
+    the more this knowledge takes hold of you and starts to become \
+    your new way of life",
+
+    "we are influenced by what we hear, always expose yourself to good motivating\
+    loving words, words that are going to guide you to be a winner in what ever \
+    you set your mind to",
+
+    "always forgive and love all people even the ones that made mistakes \
+    towards you, this behaviour will have the effect of clearing your mind \
+    of any negative thoughts and negative emotions, the message is love, love, love all beings",
+
+    "you will feel a great sense of release and uphoria when you finally utterly forgive\
+    yourself all your past mistakes towards people and towards yourself ",
+
+    "before engaging in any demanding intellectual activity start by \
+    clearing your mind of all negative thoughts and emotion by conducting\
+    a simple forgivness and gratitude meditation, just say to yourself\
+    I forgive all and I am grateful to be alive"
     ];
     
     
