@@ -49,7 +49,7 @@ if ((message.includes("motivate"))||(message.includes("motivating"))){
 else if ((message.includes("affirmation"))||(message.includes("affirmations"))){
     const finalText = positive_affirmations[Math.floor(Math.random()*positive_affirmations.length)];
     speech.text = finalText;
-    image2.src = "sunset19.jpeg"
+    image2.src = "sunset30.jpeg"
     maindiv.style.background  = "lightblue"
  }
 
