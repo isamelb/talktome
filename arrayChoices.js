@@ -122,18 +122,19 @@ const relax = [
 ];
 
 const gratitude = [
+    
     "think about all the blessing you are surrounded with like\
     the computer that you have, the phone, the running clear fresh water,\
     the heating, the warm bed, the beautiful city you live in, the absense of pain,\
     your family, and be grateful for each and every one of these blessings",
 
-    "I am grateful for being alive, it is an absolutely incredible thing to be alive\
-    think with me you were not conscious of your existance and then suddenly\
-    you became aware and one day soon, you will go back to non existance, this time\
+    "I am grateful for being alive, it is an absolutely incredible thing to be alive,\
+    think with me you were not conscious of your existence and then suddenly\
+    you became aware and one day soon, you will go back to non existence, this time\
     that we have is s special, enjoy it",
 
     "I am grateful for all the incredible level of technology humanity has \
-    reached, take the mobile phone for example, it trillions of pounds\
+    reached, take the mobile phone for example, it is trillions of pounds\
     of investment in your pocket ready to serve you at any time, it enable you to\
     have entertainment, education and communication at the touch of a little smooth\
     glass",
