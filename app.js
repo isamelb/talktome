@@ -49,14 +49,14 @@ if ((message.includes("motivate"))||(message.includes("motivating"))){
 else if ((message.includes("affirmation"))||(message.includes("affirmations"))){
     const finalText = positive_affirmations[Math.floor(Math.random()*positive_affirmations.length)];
     speech.text = finalText;
-    image2.src = "sunset2.jpeg"
+    image2.src = "sunset19.jpeg"
     maindiv.style.background  = "lightblue"
  }
 
  else if ((message.includes("principle"))||(message.includes("principles"))){
     const finalText = principles[Math.floor(Math.random()*principles.length)];
     speech.text = finalText;
-    image2.src = "sunset2.jpeg"
+    image2.src = "sunset20.jpeg"
     maindiv.style.background  = "lightblue"
  }
 
@@ -97,7 +97,7 @@ else if ((message.includes("grateful"))||(message.includes("gratitude"))){
  
  
  else{
-    image2.src = "sunset4.jpeg"
+    image2.src = "sunset30.jpeg"
     maindiv.style.background  = "lightblue"
  }
 
