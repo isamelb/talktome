@@ -21,7 +21,7 @@ recognition.onresult = function(event){
     
 };
 
-array_of_choices = ["motivate","affirmation","affirmation","principle","love","finance","relax","health",];
+array_of_choices = ["motivate","affirmation","affirmation","gratitude","principle","love","finance","relax","health",];
 
 function select_random (){
    var item = array_of_choices[Math.floor(Math.random()*array_of_choices.length)];
@@ -35,7 +35,7 @@ function readOutLoud(message){
 
 const speech = new SpeechSynthesisUtterance();
 speech.text = 'I dont know what you said, you can ask me anything about the following subjects:\
-motivation, self love, good affirmations, relaxation, good principals of life, financial advice and health advice\
+motivation, self love, good affirmations, gratitude, relaxation, good principals of life, financial advice and health advice\
 '
 
 document.body.style.backgroundColor = "white";
@@ -83,6 +83,13 @@ else if ((message.includes("relax"))||(message.includes("relaxing"))){
 
 else if ((message.includes("health"))||(message.includes("healthy"))){
    const finalText = health_advice[Math.floor(Math.random()*health_advice.length)];
+   speech.text = finalText;
+   image2.src = "sunset4.jpeg"
+   maindiv.style.background  = "lightblue"
+}
+
+else if ((message.includes("grateful"))||(message.includes("gratitude"))){
+   const finalText = gratitude[Math.floor(Math.random()*gratitude.length)];
    speech.text = finalText;
    image2.src = "sunset4.jpeg"
    maindiv.style.background  = "lightblue"
