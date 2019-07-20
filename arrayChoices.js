@@ -125,7 +125,7 @@ const gratitude = [
     
     "think about all the blessing you are surrounded with like\
     the computer that you have, the phone, the running clear fresh water,\
-    the heating, the warm bed, the beautiful city you live in, the absense of pain,\
+    the heating, the warm bed, the beautiful city you live in, the absence of pain,\
     your family, and be grateful for each and every one of these blessings",
 
     "I am grateful for being alive, it is an absolutely incredible thing to be alive,\
