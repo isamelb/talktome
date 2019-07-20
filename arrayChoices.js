@@ -102,7 +102,7 @@ const motivate_me =[
     on coffee, that will make it 1600 pounds per year, money that you could have invested",
 
     "start saving early in life and dont get into habits that waste money\
-    such going daily for coffees or drinking beer and smoking cigarettes"
+    such as going daily for coffees or drinking beer and smoking cigarettes"
 
 
 
