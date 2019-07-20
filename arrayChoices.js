@@ -147,6 +147,6 @@ const gratitude = [
 
     "I am grateful for all the kindness my parents bestowed upon me \
     to make a man or woman of me, I am their investment of effort and\
-    resources, I am so grateful to them, and I promiss to pass this kindness\
-    to ohter people including my children"
+    resources, I am so grateful to them, and I promise to pass this kindness\
+    to other people including my children"
 ]
