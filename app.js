@@ -91,13 +91,13 @@ else if ((message.includes("health"))||(message.includes("healthy"))){
 else if ((message.includes("grateful"))||(message.includes("gratitude"))){
    const finalText = gratitude[Math.floor(Math.random()*gratitude.length)];
    speech.text = finalText;
-   image2.src = "sunset4.jpeg"
+   image2.src = "sunset16.jpeg"
    maindiv.style.background  = "lightblue"
 }
  
  
  else{
-    image2.src = "sunset2.jpeg"
+    image2.src = "sunset4.jpeg"
     maindiv.style.background  = "lightblue"
  }
 
