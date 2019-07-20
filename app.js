@@ -56,7 +56,7 @@ else if ((message.includes("affirmation"))||(message.includes("affirmations"))){
  else if ((message.includes("principle"))||(message.includes("principles"))){
     const finalText = principles[Math.floor(Math.random()*principles.length)];
     speech.text = finalText;
-    image2.src = "sunset20.jpeg"
+    image2.src = "sunset17.jpeg"
     maindiv.style.background  = "lightblue"
  }
 
