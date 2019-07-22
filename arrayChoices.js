@@ -175,7 +175,7 @@ const gratitude = [
     "I am grateful for the level of advancement science has reached,\
     we live in truly incredible amazing times, artificial intelligence\
     is now a reality, it can get you any information request you require just\
-    by asking it, computing technlogy can organise your life to such an extent\
+    by asking it, computing technology can organise your life to such an extent\
     that life becomes sheer joy",
 
     "I am grateful for all the kindness my parents bestowed upon me \
