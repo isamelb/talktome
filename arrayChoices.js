@@ -1,4 +1,4 @@
-const motivate_me =[
+const motivate_me = [
     "you surely can finish any project you start,\
     you should always love yourself",
 
@@ -7,10 +7,58 @@ const motivate_me =[
 
     "always repeat these words to yourself: I love myself, I love myself,\
     repeat this mantra to yourself, I can do anything I set myself to do"
-    ];
+];
+
+const positive_affirmations = [
+    "my life is just begining",
     
-    const positive_affirmations=[
+    "I am at peace with what has happened, is happening and will happen",
+
+    "I wake up today with strength in my heart and clarity in my mind",
+
+    "my obstacles are moving out of my way; my path is carved towards greatness",
+
+    "I am conquering my illness, I am defeating it steadily each day",
+
+    "I am a powerhouse, I am undestructible",
+
+    "everything that is happening now is happening for my ultimate good",
+
+    "I acknowledge my own self worth; my confidence is soaring",
+
+    "many people look up to me and recogniz my worth",
+
+    "my thoughts are filled with positivity and my life is plentiful with prosperity",
+
+    "I am courageous and I stand up for myself",
+
+    "I deserve to be employed and payed well for my time, efforts and\
+    ideas.Each day, I am closer to finding the perfect job",
+
+    "my ability to conquer my challenges is limitless; my potential to succeed\
+    is infinite",
+
+    "happiness is a choice, I base my happiness on my own accomplishements and\
+    the blessings I have been given",
+
+    "my business is growing, expanding and thriving",
     
+    "i possess the qualities to make me extremely successful",
+
+    "a river of compassion washes away my anger and replaces it with love",
+
+    "I forgive those who have harmed me in the past and peacefully detach from them",
+
+    "I have been given endless talents which I begin to utilize today",
+
+    "I am superior to negative thoughts and low actions",
+
+    "my body is healthy; my mind is brilliant; my soul is tranquil",
+
+    "today I am brimming with energy and overflowing with joy",
+
+    "I am the architect of my life, I build its foundation and choose its content",
+
     "you are a great person, and you are proving it everyday, the more people know you the \
     more they admire and love you,\
     you are beautiful and you are going to succeed in life, life will always be pleasurable to you ",
@@ -56,13 +104,13 @@ const motivate_me =[
     clearing your mind of all negative thoughts and emotion by conducting\
     a simple forgivness and gratitude meditation, just say to yourself\
     I forgive all and I am grateful to be alive"
-    ];
-    
-    
-    
-    const principles =[
-    
-    
+];
+
+
+
+const principles = [
+
+
     "always live life authentically, be yourself no matter what they say,\
     always do at least one hour of learning new things per day",
 
@@ -88,9 +136,9 @@ const motivate_me =[
 
     "If you are stressed, be gratefull for the opportunity it gives you to learn more about your fears and anger,\
     practice acceptance of your life everyday, repeat these words: i accept my life, I accept my life"
-    ];
-    
-    const give_love = [
+];
+
+const give_love = [
     "you are loved , you are loved and you are supported,\
     give love to yourself by saying to yourself, I love you,\
     I love you several times during the day",
@@ -103,16 +151,16 @@ const motivate_me =[
 
     "take time everyday to observe your body and consciousely love every part of it,\
     always love life and know that it is a gift given to you, dont waste it by being angry"
-    
-                          
-                      
-                   
-                        
-                        ];
-    const health_advice =[  
+
+
+
+
+
+];
+const health_advice = [
     "dont put sugar in your coffee or tea,\
     do at least a 20 minutes strenuous exercise per day",
-    
+
     "dont smoke either cigarettes or cannabis, they will destroy your well being\
     and your chances of succeeding in life",
 
@@ -120,13 +168,13 @@ const motivate_me =[
     and good mental health ,and surely dont touch alcohol it will strip you of your health,\
      money and dignity",
 
-     "eat a lot of fresh vegetables and fruits and less processed foods, avoid saturated fats foods\
+    "eat a lot of fresh vegetables and fruits and less processed foods, avoid saturated fats foods\
      such as potatoes chips and fried chicken"
 
 
 ];
-    
-    const financial_advice = [
+
+const financial_advice = [
     "save at least 2 pounds per day,\
     dont smoke cigarettes as their cost will render you extremely poor",
 
@@ -155,7 +203,7 @@ const relax = [
 ];
 
 const gratitude = [
-    
+
     "think about all the blessing you are surrounded with like\
     the computer that you have, the phone, the running clear fresh water,\
     the heating, the warm bed, the beautiful city you live in, the absence of pain,\
