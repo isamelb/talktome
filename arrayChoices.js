@@ -212,7 +212,7 @@ const gratitude = [
     "I am grateful for being alive, it is an absolutely incredible thing to be alive,\
     think with me you were not conscious of your existence and then suddenly\
     you became aware and one day soon, you will go back to non existence, this time\
-    that we have is special, enjoy it",
+    that we have is so special, enjoy it",
 
     "I am grateful for all the incredible level of technology humanity has \
     reached, take the mobile phone for example, it is trillions of pounds\
