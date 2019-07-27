@@ -38,7 +38,7 @@ const positive_affirmations = [
     "my ability to conquer my challenges is limitless; my potential to succeed\
     is infinite",
 
-    "happiness is a choice, I base my happiness on my own accomplishements and\
+    "happiness is a choice, I base my happiness on my own accomplishments and\
     the blessings I have been given",
 
     "my business is growing, expanding and thriving",
