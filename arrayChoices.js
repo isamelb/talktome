@@ -26,7 +26,7 @@ const positive_affirmations = [
 
     "I acknowledge my own self worth; my confidence is soaring",
 
-    "many people look up to me and recogniz my worth",
+    "many people look up to me and recognize my worth",
 
     "my thoughts are filled with positivity and my life is plentiful with prosperity",
 
