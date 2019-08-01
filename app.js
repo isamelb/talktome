@@ -119,7 +119,7 @@ recognition.start();
 
 btn1.addEventListener("click" , () => {
    select_random();
-   navigator.vibrate(250);
+   navigator.vibrate(100);
    //document.body.style.backgroundColor = "white";
    
    });
