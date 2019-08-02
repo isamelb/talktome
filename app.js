@@ -111,6 +111,7 @@ content.textContent = speech.text;
 
 btn.addEventListener("click" , () => {
 recognition.start();
+navigator.vibrate(100)
 
 
 //document.body.style.backgroundColor = "white";
