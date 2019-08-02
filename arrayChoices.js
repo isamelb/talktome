@@ -26,7 +26,7 @@ const positive_affirmations = [
 
     "I acknowledge my own self worth; my confidence is soaring",
 
-    "many people look up to me and recognize my worth",
+    "many people look up to me and recogniz my worth",
 
     "my thoughts are filled with positivity and my life is plentiful with prosperity",
 
@@ -78,7 +78,7 @@ const positive_affirmations = [
     and be proud of yourself",
 
     "do not ever doubt the fact that you can achieve anything you set your mind to\
-    and as a consquence you should trust your abilities and you capacity to\
+    and as a consequence you should trust your abilities and you capacity to\
     achieve any reasonable targets and goals",
 
     "if you follow the principles and believe in the affirmations in this app\
