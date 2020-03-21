@@ -1,5 +1,6 @@
 const btn = document.querySelector(".talk");
 const btn1 = document.querySelector(".random");
+const btn2 = document.querySelector(".repeat")
 const content = document.querySelector(".content");
 const image2 = document.querySelector(".image2");
 const maindiv = document.querySelector(".maindiv");
@@ -22,9 +23,10 @@ recognition.onresult = function(event){
 };
 
 array_of_choices = ["motivate","affirmation","affirmation","affirmation","gratitude","principle","love","finance","relax","health",];
-
+ var readrepeat = "word";
 function select_random (){
    var item = array_of_choices[Math.floor(Math.random()*array_of_choices.length)];
+   readrepeat = item;
    readOutLoud(item);
    maindiv.style.background  = "lightblue"
 
@@ -122,6 +124,9 @@ btn1.addEventListener("click" , () => {
    select_random();
    navigator.vibrate(100);
    //document.body.style.backgroundColor = "white";
+
+btn2.addEventListener("click" , () => {
+   readOutLoud(readrepeat);
    
    });
    
